@@ -1,5 +1,4 @@
-# Linux Command Line Notes:
-===========================
+# __Linux Command Line Notes:__
 
 ## pwd
 - The full form for pwd is 'print working directory'
