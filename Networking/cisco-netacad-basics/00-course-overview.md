@@ -48,13 +48,6 @@ Build strong networking fundamentals required for cybersecurity.
 - [ ] Checkpoint: Communication Between Networks  
 - [ ] Checkpoint: Protocols for Specific Tasks  
 - [ ] Final Exam  
-## 📊 Progress
-
-- [ ] Network Fundamentals  
-- [ ] IP Addressing  
-- [ ] Subnetting  
-- [ ] OSI Model  
-- [ ] Network Devices  
 
 ---
 
