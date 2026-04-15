@@ -105,3 +105,25 @@ terminal.
 	- *-b* -> numbers only the non-empty lines.
 
 ## less
+- The command is used to view filss in a paged format.
+- Just enter the filename or it's relative path in front of less to use the command.
+- When you enter the paged format, you are unable to use linux commands, but have to use set of specific keys to navigate or interact with the text.
+- Use the arrow keys to navigate up and down the line or page by page.
+- Use 'g' to go the start of the text, and 'G' or 'Shift + g' to go to the end of the text.
+- If in any case you do not remember the keys to use the paged format, just press the 'h' key for a help menu.
+- In the paged format, you can also use the search tool to navigate certain words. This is one of the best use of this command and this very important.
+- 'n' is used to go to the next occurence of the word you searched for, whereas 'N' or 'Shift + n' is uded to go to the previous occurence.
+- Use 'q' to exit the paged format.
+
+## history
+- This command lets you see the commands you have used in a session.
+- gives you a detailed log of the commands.
+- you can even use it with less command, by using 'history |less'.
+- There are shortcuts in linux, you can use to save your time.
+	1. Up arrow: use it to use the previous command you just entered.
+	2. !!: use it to perform the same command you just performed.
+- You can also search your history by Ctrl + R in the terminl and writing the command or keywords you remember.l
+- You can clear history using 'history -c linux'
+- You can save history of a session using 'history -w linux'.
+- You can delete a specific history using 'history -d (ofset)' where ofset is the entry no. of the command you see when using the history command.
+- Clear command is the command I use the most. When things get messy and you want to 'clear' every thing and start new or start clean, use this.
